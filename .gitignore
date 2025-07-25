@@ -3,3 +3,4 @@ venv/
 .trails/
 __pycache__/
 *.pyc
+*.yaml
