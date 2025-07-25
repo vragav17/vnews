@@ -1,0 +1,6 @@
+googlenewsdecoder
+streamlit
+google-generativeai
+feedparser
+python-dateutil
+pytz

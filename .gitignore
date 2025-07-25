@@ -1,0 +1,5 @@
+venv/
+.streamlit/
+.trails/
+__pycache__/
+*.pyc
