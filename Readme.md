@@ -13,22 +13,16 @@ This project is a Streamlit-based application that fetches, analyzes, and summar
 ## Project Structure
 
 ```
-.gitignore
-.pre-commit-config.yaml
+
 constants.py
 Readme.md
 requirements.txt
 vnews.py
-__pycache__/
-.streamlit/
-.trails/
 src/
 ```
 
 - **vnews.py**: Main Streamlit app for news scraping and display.
 - **src/**: Core modules for LLM integration, utilities, and article fetching.
-- **.trails/**: Contains test scripts, sample data, and intermediate results.
-- **.streamlit/secrets.toml**: Stores API keys for Gemini AI.
 - **requirements.txt**: Python dependencies.
 - **constants.py**: UI constants and default keywords/sites.
 
