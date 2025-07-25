@@ -1,5 +1,5 @@
 venv/
-.streamlit/
+secrets.toml
 .trails/
 __pycache__/
 *.pyc
