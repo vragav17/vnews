@@ -30,7 +30,7 @@ src/
 
 1. **Clone the repository**  
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/vragav17/vnews.git
    cd news_scraper
    ```
 
